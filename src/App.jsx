@@ -13,7 +13,7 @@ function App() {
      <nav>
         <Link to="/react-test/">About</Link>
         {" | "}
-        <Link to="/react-test/contact">Login</Link>
+        <Link to="/react-test/login">Login</Link>
       </nav>
 
       <Outlet />
