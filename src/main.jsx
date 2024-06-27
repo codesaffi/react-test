@@ -17,7 +17,7 @@ const router = createBrowserRouter([
         element: <About />,
       },
       {
-        path: "/react-test/contact",
+        path: "/react-test/login",
         element: <Login />,
       },
     ],
